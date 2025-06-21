@@ -1,0 +1,6 @@
+## Interface: 110107
+## Title: HideVendorSellPrice
+## IconTexture: Interface\AddOns\HideVendorSellPrice\HideVendorSellPrice.blp
+## Author: Lunia
+
+HideVendorSellPrice.lua
