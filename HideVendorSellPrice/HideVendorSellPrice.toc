@@ -1,4 +1,4 @@
-## Interface: 110200, 110205
+## Interface: 110205, 110207
 ## Title: Hide Vendor Sell Price
 ## IconTexture: Interface\AddOns\HideVendorSellPrice\HideVendorSellPrice.blp
 ## Author: Lunia
